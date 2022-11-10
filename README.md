@@ -8,4 +8,4 @@ Citation for the working paper is:
 
 Paine, James, Dynamic Supply Chains with Endogenous Dispositions (August 12, 2022). Available at SSRN: https://ssrn.com/abstract=4148766 or http://dx.doi.org/10.2139/ssrn.4148766
 
-This citation and above links will be updated once an articles-in-advance version of the full article is made available
+This paper has been accepted by the System Dynamics Review for publication, pending final copy edits and typesetting. The citation above will be updated once an articles-in-advance version of the full article is made available
