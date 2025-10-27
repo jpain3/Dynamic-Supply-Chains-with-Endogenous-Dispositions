@@ -1,11 +1,9 @@
 # Dynamic Supply Chains with Endogenous Dispositions
 
-This repository hosts the Model and Supporting files for the forthcoming System Dynamics Review article "Dynamic Supply Chains with Endogenous Dispositions"
+This repository hosts the Model and Supporting files for the System Dynamics Review article "Dynamic Supply Chains with Endogenous Dispositions"
 
-Current working paper version of the article and supporting materials are at: http://ssrn.com/abstract=4148766
+The article is pubished under a cretive commons license and is freely available here: https://doi.org/10.1002/sdr.1725
 
-Citation for the working paper is:
+Citation for the paper is:
 
-Paine, James, Dynamic Supply Chains with Endogenous Dispositions (August 12, 2022). Available at SSRN: https://ssrn.com/abstract=4148766 or http://dx.doi.org/10.2139/ssrn.4148766
-
-This paper has been accepted by the System Dynamics Review for publication, pending final copy edits and typesetting. The citation above will be updated once an articles-in-advance version of the full article is made available
+Paine, J. (2023). Dynamic supply chains with endogenous dispositions. System Dynamics Review, 39(1), 32–63. https://doi.org/10.1002/sdr.1725
